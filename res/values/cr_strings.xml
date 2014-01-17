@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- About phone screen, Temasek version -->
+    <string name="temasek_version_title">New ROM</string>
+    <!-- Do NOT translate this -->
+   <string name="temasek_version_default">CyanogenMod Builds</string>
+
+    <!-- Changelog -->
+    <string name="changelog_temasek_title">Changelog</string>
+    <string name="changelog_temasek_error">Unable to load changelog</string>
+
+    <!-- About device screen, CPU and RAM info. -->
+    <string name="cpu_info">CPU</string>
+    <string name="mem_info">RAM</string>
+
+    <!-- Extra Info -->
+    <string name="temaextrainfo">Extra information</string>
+    <string name="temaextrainfo_summary">Display extra info for cpu, display, etc</string>
+    <!-- SuperSU -->
+    <string name="supersu_title">SuperSU</string>
+
+</resources>
