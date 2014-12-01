@@ -15,11 +15,13 @@
     <string name="cpu_info">CPU</string>
     <string name="mem_info">RAM</string>
 
-
+<<<<<<< HEAD
     <!-- Extra Info -->
     <string name="temaextrainfo">Extra information</string>
     <string name="temaextrainfo_summary">Display extra info for cpu, display, etc</string>
     <!-- SuperSU -->
     <string name="supersu_title">SuperSU</string>
 
+=======
+>>>>>>> ade326d... Add CPU & RAM info.
 </resources>
