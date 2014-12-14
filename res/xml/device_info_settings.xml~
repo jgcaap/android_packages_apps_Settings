@@ -158,7 +158,8 @@
                 android:title="@string/kernel_version"
                 android:summary="@string/device_info_default"/>
 
-
+<<<<<<< HEAD
+=======
         <!-- Device cpu info -->
         <Preference android:key="device_cpu"
                 style="?android:preferenceInformationStyle"
@@ -177,12 +178,13 @@
                 android:title="@string/mod_version"
                 android:summary="@string/mod_version_default" />
 
-	<!-- New ROM version -->
+	<!-- Temasek version -->
         <Preference android:key="temasek_version"
                 style="?android:preferenceInformationStyle"
                 android:title="@string/temasek_version_title"
                 android:summary="@string/temasek_version_default"/>
 
+>>>>>>> f841e62... Move CPU & Ram info to like it was in CM11 in "About Phone"
         <!-- Build date -->
         <Preference android:key="build_date"
                 style="?android:preferenceInformationStyle"
